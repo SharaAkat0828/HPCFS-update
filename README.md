@@ -1,6 +1,6 @@
 # Updating High Plains Cattle Feeding Simulator (HPCFS)
 
-This project aims to update HPCFS in accordance with the latest Nutrient Requirements of Beef Cattle (NRBC) manual. The script loads data from various sources and graphs/tables about feedlot closeout estimations. 
+This project aims to update HPCFS in accordance with the latest Nutrient Requirements of Beef Cattle (NRBC) manual. The script loads data from various sources and generates graphs/tables about feedlot closeout estimations. 
 
 
 
