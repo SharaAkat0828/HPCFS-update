@@ -6,7 +6,7 @@ This project aims to update HPCFS in accordance with the latest Nutrient Require
 
 ## Contents
 
-### R scripts
+- R scripts
 
 | Script                         | Description                                                                 |
 |--------------------------------|-----------------------------------------------------------------------------|
@@ -20,7 +20,7 @@ This project aims to update HPCFS in accordance with the latest Nutrient Require
 | `Generate_Comparative_TablesFigures.R` | Generates figures comparing previous (old) vs new Simulator variables. |
 | `Suppl_comparison.R`           | Generates supplemental comparative graphs using `Generate_Comparative_TablesFigures.R`. |
 
-- **`README.md`**: Project overview.
+- `README.md`: Project overview.
 
 
 
